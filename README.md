@@ -1,2 +1,2 @@
 # Control_Universidad
-Control Universidad Demo 11:30:0000
+Control Universidad Demo 11:30:000000
